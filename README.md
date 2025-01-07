@@ -1,1 +1,1 @@
-# QR_Code_Generator
+QR Code Generator is a simple and efficient web app that allows users to create customized QR codes in seconds. Just input a URL, text, or contact information, and the app generates a scannable QR code instantly. With options for adjusting colors, sizes, and error correction levels, it’s perfect for businesses, marketers, event planners, and anyone looking to share information quickly and easily. The user-friendly interface makes it easy to generate, download, and share QR codes for various purposes.
